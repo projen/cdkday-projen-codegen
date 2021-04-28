@@ -1,15 +1,10 @@
-## My Project
+## Projen Codegen
 
-TODO: Fill this README out!
-
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
+> A code generation library for [projen](https://github.com/projen/projen).
 
 ## Security
 
-See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
+See [Security Issue Notification](CONTRIBUTING.md#security-issue-notifications) for more information.
 
 ## License
 
